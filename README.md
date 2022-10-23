@@ -1,0 +1,2 @@
+# firstTypescript
+ first typescript project
