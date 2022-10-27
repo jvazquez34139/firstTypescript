@@ -1,0 +1,19 @@
+{
+  "name": "firsttypescript",
+  "version": "1.0.0",
+  "description": "Practice with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvazquez34139/firstTypescript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvazquez34139/firstTypescript/issues"
+  },
+  "homepage": "https://github.com/jvazquez34139/firstTypescript#readme"
+}
